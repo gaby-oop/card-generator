@@ -1,0 +1,28 @@
+body{
+   background-color: aqua;
+}
+.container {
+    margin-top: 5%;
+}
+.card{
+    text-align: center;
+    background-color: white;
+    margin:auto;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+.spade1{
+    float: left;
+    font-size: 100px;
+}
+.spade2{
+  float: right;
+  font-size: 100px;
+  margin-top: 0px;
+}
+.numb1{
+    font-size: 160px;
+    margin-right: 60px;
+} 
